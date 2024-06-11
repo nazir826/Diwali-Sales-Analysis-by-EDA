@@ -1,1 +1,1 @@
-# Diwali-Sales-Analysis-by-EDA
+This Project is for Analyzing Diwali sales data to improve customer experience and sales Through Exploratory Data Analysis.Exploratory Data Analysis (EDA) is a process of describing the data by means of statistical and visualization techniques in order to bring important aspects of that data into focus for further analysis. This involves inspecting the dataset from many angles, describing & summarizing it without making any assumptions about its contents.
